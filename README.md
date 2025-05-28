@@ -13,7 +13,7 @@ This repository contains Ansible playbooks, roles, and inventories for setting u
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/davraops/ansible-config.git
+    git clone https://github.com/devjavops/ansible-config.git
     cd ansible-config
     ```
 
